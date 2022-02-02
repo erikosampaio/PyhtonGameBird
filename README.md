@@ -1,2 +1,2 @@
 # PyhtonGameBird
-Criação de game com dinâmica similar ao Flappy Birds desenvolvido totalmente em Python.
+Criação de game com dinâmica similar ao Flappy Birds. Desenvolvido totalmente em Python.
